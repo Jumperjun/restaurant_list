@@ -2,9 +2,9 @@
 ![Index page about Restaurant List](./public/image/list_screenshot.png)
 
 ## 介紹
-1.瀏覽我的餐廳清單
-2.點擊餐廳查看餐廳詳細資訊
-3.搜尋特定餐廳
+1. 瀏覽我的餐廳清單
+2. 點擊餐廳查看餐廳詳細資訊
+3. 搜尋特定餐廳
 
 ## 開始使用
 1. 請先確認有安裝 node.js 與 npm
