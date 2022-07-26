@@ -1,5 +1,5 @@
 #restaurant-list
-![Index page about Restaurant List](./public/image/list_screenshot.jpg)
+![Index page about Restaurant List](./public/image/list_screenshot)
 
 ##介紹
 1.瀏覽我的餐廳清單
